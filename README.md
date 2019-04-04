@@ -1,2 +1,2 @@
-# Prog-mde-klassen
+# Prog-med-klassen
 hajhaj
